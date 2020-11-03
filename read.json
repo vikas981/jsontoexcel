@@ -1,0 +1,45 @@
+{
+  "10.120.10.220": {
+    "java": "1.8.0_144",
+    "context": [
+      "/app/ERS/PEETS_COFFEE/WEB-INF/lib/ojdbc7-12.1.0.2.jar",
+      "/app/ERS/PIZZA_HUT_PRE_P1/WEB-INF/lib/ojdbc8-12.2.0.1.jar",
+      "/app/ERS/CHP_CHIPOTLE_S1/WEB-INF/lib/ojdbc8-12.2.0.1.jar",
+      "/app/ERS/CHP_CHIPOTLE_P1/WEB-INF/lib/ojdbc8-12.2.0.1.jar",
+      "/app/ERS/PIZZA_HUT_2_P1/WEB-INF/lib/ojdbc8-12.2.0.1.jar",
+      "/app/ERS/PIZZA_HUT_2_S1/WEB-INF/lib/ojdbc8-12.2.0.1.jar",
+      "/app/ERS/PIZZA_HUT_P1/WEB-INF/lib/ojdbc8-12.2.0.1.jar",
+      "/app/ERS/PIZZA_HUT_S1/WEB-INF/lib/ojdbc8-12.2.0.1.jar",
+      "/app/ERS/CHICKEN_SALAD_CHICK_S1/WEB-INF/lib/ojdbc8-12.2.0.1.jar",
+      "/app/ERS/OUTBACK_S1/WEB-INF/lib/ojdbc8-12.2.0.1.jar",
+      "/app/ERS/HUDDLE_HOUSE_S1/WEB-INF/lib/ojdbc8-12.2.0.1.jar",
+      "/app/ERS/DENNYS_P1/WEB-INF/lib/ojdbc8-12.2.0.1.jar",
+      "/app/ERS/LITTLE_CAESAR_P1/WEB-INF/lib/ojdbc8-12.2.0.1.jar",
+      "/app/ERS/LITTLE_CAESAR_R1/WEB-INF/lib/ojdbc8-12.2.0.1.jar",
+      "/app/ERS/BWW_PROD_S1/WEB-INF/lib/ojdbc8-12.2.0.1.jar",
+      "/app/ERS/TACO_BELL_P1/WEB-INF/lib/ojdbc8-12.2.0.1.jar",
+      "/app/ERS/TACO_BELL_PRE_P1/WEB-INF/lib/ojdbc8-12.2.0.1.jar",
+      "/app/ERS/TACO_BELL_S1/WEB-INF/lib/ojdbc8-12.2.0.1.jar",
+      "/app/ERS/NDL_NOODLES_P1/WEB-INF/lib/ojdbc8-12.2.0.1.jar",
+      "/app/ERS/MARIE_CALLENDERS_S1/WEB-INF/lib/ojdbc7-12.1.0.2.jar",
+      "/app/ERS/SNS1_STEAKNSHAKE_P1/WEB-INF/lib/ojdbc7-12.1.0.2.jar",
+      "/app/ERS/PIZZA_HUT_2_R1/WEB-INF/lib/ojdbc8-12.2.0.1.jar",
+      "/app/ERS/PIZZA_HUT_R1/WEB-INF/lib/ojdbc8-12.2.0.1.jar",
+      "/app/ERS/HUDDLE_HOUSE_R1/WEB-INF/lib/ojdbc8-12.2.0.1.jar",
+      "/app/ERS/FRIENDLY_REST_P1/WEB-INF/lib/ojdbc8-12.2.0.1.jar",
+      "/app/ERS/HUDDLE_HOUSE_P1/WEB-INF/lib/ojdbc8-12.2.0.1.jar",
+      "/app/ERS/ARBYS_PROD_P1/WEB-INF/lib/ojdbc8-12.2.0.1.jar"
+    ]
+  },
+  "10.120.10.221": {
+    "java": "1.8.0_144",
+    "context": [
+      "/app/ERS/TACO_BELL_P2/WEB-INF/lib/ojdbc8-12.2.0.1.jar",
+      "/app/ERS/TACO_BELL_P3/WEB-INF/lib/ojdbc8-12.2.0.1.jar",
+      "/app/ERS/TACO_BELL_P4/WEB-INF/lib/ojdbc8-12.2.0.1.jar",
+      "/app/ERS/TACO_BELL_P5/WEB-INF/lib/ojdbc8-12.2.0.1.jar",
+      "/app/ERS/TACO_BELL_P6/WEB-INF/lib/ojdbc8-12.2.0.1.jar",
+      "/app/ERS/TACO_BELL_P1/WEB-INF/lib/ojdbc8-12.2.0.1.jar"
+    ]
+  }
+}

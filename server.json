@@ -1,0 +1,42 @@
+{
+"localhost": {
+"context": [
+"/home/manojjoshi/ERS/APPLICATION1/LIB/data.txt",
+"/home/manojjoshi/ERS/APPLICATION3/LIB/data.txt",
+"/home/manojjoshi/ERS/APPLICATION3/LIB/data.txt",
+"/home/manojjoshi/ERS/APPLICATION3/LIB/data.txt",
+"/home/manojjoshi/ERS/APPLICATION2/LIB/data.txt"
+],
+"size": [
+0,
+0,
+5490,
+0,
+8
+]
+},
+"localhost1": {
+"context": [
+"/home/manojjoshi/ERS/APPLICATION1/LIB/data.txt",
+"/home/manojjoshi/ERS/APPLICATION3/LIB/data.txt",
+"/home/manojjoshi/ERS/APPLICATION2/LIB/data.txt"
+],
+"size": [
+0,
+0,
+54
+]
+},
+"localhost2": {
+"context": [
+"/home/manojjoshi/ERS/APPLICATION1/LIB/data.txt",
+"/home/manojjoshi/ERS/APPLICATION3/LIB/data.txt",
+"/home/manojjoshi/ERS/APPLICATION2/LIB/data.txt"
+],
+"size": [
+0,
+0,
+54
+]
+}
+}
